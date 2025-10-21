@@ -1,5 +1,3 @@
-coffee() :: ws:// :: async/await :: k8s
-
 ## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayukhmali-das/)](https://www.linkedin.com/in/mayukhmali-das-7237a1196/)
